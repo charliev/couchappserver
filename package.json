@@ -1,0 +1,15 @@
+{
+  "name": "couchappserver",
+  "version": "1.0.0",
+  "description": "Use CouchDB as an application server",
+  "main": "daemon.js",
+  "scripts": {
+    "test": "echo \"Program testing can be used to show the presence of bugs, but never to show their absence!\n\t--E.W. Dijkstra\" && exit 0"
+  },
+  "author": "Karl Vossen",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0",
+    "zip-local": "^0.3.4"
+  }
+}
